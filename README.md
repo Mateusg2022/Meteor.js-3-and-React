@@ -5,5 +5,10 @@
 3. Execute `meteor`
 4. Abra `http://localhost:3000` no seu navegador
 
+Para fazer o login:
 
+- user: `Meteorite`
+
+- password: `password`
+ 
 https://docs.meteor.com/tutorials/react/
